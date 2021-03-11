@@ -11,7 +11,8 @@ Please **[Click Here](https://repl.it/@Simer00/Youtube-Video-Downloader?v=1)** t
  
 * ## __*Known Issues*__
   * `os.getenv` won't work for public.
-  * S ![image](https://user-images.githubusercontent.com/76672732/110804861-aa7e1780-82d4-11eb-965f-c82014a09b0a.png) BAD!
+  * S BAD!
+     ![image](https://user-images.githubusercontent.com/76672732/110804861-aa7e1780-82d4-11eb-965f-c82014a09b0a.png)
 
 * ## __*FYO*__
   * Why? Just Why?
