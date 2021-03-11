@@ -11,13 +11,11 @@ Please **[Click Here](https://repl.it/@Simer00/Youtube-Video-Downloader?v=1)** t
  
 * ## __*Known Issues*__
   * `os.getenv` won't work for public.
-  * Video is low quality
+  * S ![image](https://user-images.githubusercontent.com/76672732/110804861-aa7e1780-82d4-11eb-965f-c82014a09b0a.png) BAD!
 
 * ## __*FYO*__
-  * Where's my video?
-    * Main directory under the Code section (Replit)
-  * Why is it so low quality?
-    * idk, it works better on desktop
+  * Why? Just Why?
+    * Because I got bored and decided to fiddle around with python or what not...
   * Why repl.it?
     * I'm testing it for another project
   * How did you do the banners?
