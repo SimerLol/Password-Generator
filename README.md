@@ -13,7 +13,7 @@ Please **[Click Here](https://repl.it/@Simer00/Password-Generator?v=1)** to see 
   * `os.getenv` won't work for public.
   * S![image](https://user-images.githubusercontent.com/76672732/110804861-aa7e1780-82d4-11eb-965f-c82014a09b0a.png)BAD!
 
-* ## __*FYO*__
+* ## __*FYI*__
   * Why? Just Why?
     * Because I got bored and decided to fiddle around with python or what not...
   * Why repl.it?
