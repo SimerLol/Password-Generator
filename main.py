@@ -1,3 +1,4 @@
+# Password Generator || Made By SimerLol
 import os
 import sys
 import time
@@ -34,16 +35,20 @@ def typing(words):
     sys.stdout.write(char)
     sys.stdout.flush()
 
-#password requirements
+# Password Requirements
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "0123456789"
 symbols = "[]{}()*;/._-"
 all = lower + upper + numbers + symbols
-length = 16
-
-#password generation
-password = "".join(random.sample(all,length))
+print(YELLOW + "Random Password Generator\n" + END)
+typing("How many passwords do you want?\n")
+many = int(input(">>> "))
+typing("\nHow many characters do you want the password to be? (Max 74)\n")
+length = int(input(">>> "))
+print("")
+if (length >= 74):
+  length = 74
 
 #Generating Script
 animation = "|/-\\"
@@ -55,12 +60,18 @@ sys.stdout.write(GREEN + "\rGenerated!\n")
 time.sleep(1.5)
 clear()
 
-#password printing
+#password generation
 os.system(footer)
 print()
 print()
 os.system(yourpass)
-print(password)
+for m in range (many):
+  password = "" 
+  for l in range (length):
+      password = "".join(random.sample(all,length))
+  print(password)
 time.sleep(3.5)
 print(PURPLE)
-typing("This is a very simple script, feel free to improve on it!\n               My socials are - Simer00               \n")
+typing("This is a very simple script, feel free to improve on it!\n               My socials are - @SimerLol               \n")
+
+# Password Generator || Made By SimerLol
